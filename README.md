@@ -2,11 +2,9 @@
 
 This repository is a PHP-based starter-kit for Uncle Bob's "Bowling Game Kata".
 
-This can be used with any tool stack. But, PHPStorm configurations have been included that allow you to get your test environment up and running quickly.
-
-I have bound **Main Menu > Run > Run** to `ctrl + T` in my setup so that tests are easier to run. `Shift + F10` is the default. You should be able to open this repo as a PHPStorm project and run your tests immediately with success.
-
 > `composer install` will install PHPUnit and handle autoloading the Bowling namespace.
+
+Tests can be run with `vendor/bin/phpunit` from the root folder of the project. I recommend setting up PHPStorm and running tests in the IDE for the shortest possible feedback loop.
 
 ## Why Kata?
 
