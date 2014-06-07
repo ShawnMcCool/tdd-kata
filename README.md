@@ -1,6 +1,6 @@
 # Bowling Kata Starter
 
-This repository is a PHP-based starter-kit for Uncle Bob's "Bowling Game Kata".
+This repository is a PHP-based starter-kit for Uncle Bob's Bowling Game TDD Kata.
 
 > `composer install` will install PHPUnit and handle autoloading the Bowling namespace.
 
