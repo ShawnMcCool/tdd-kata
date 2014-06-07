@@ -10,7 +10,7 @@ I have bound **Main Menu > Run > Run** to `ctrl + T` in my setup so that tests a
 
 ## Why Kata?
 
-[The following excerpt pulled directly from http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+> The following excerpt pulled directly from [http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 
 [Here is a kata](https://github.com/ShawnMcCool/bowling-kata/raw/master/Bowling%20Game%20Kata.ppt) for the Bowling Game problem. I have broken it down into the same tiny little steps that I do when I demonstrate it. However, as is usual for a kata, I have left out most of the explanatory comments.
 
