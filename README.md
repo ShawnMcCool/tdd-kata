@@ -14,7 +14,7 @@ The idea of the kata is that you're not thinking about how to solve the problem 
 
 What are the benefits exactly? The kata (much like kata in Tae Kwon Do) are about repetition. Utilize your best IDE shortcuts, do everything in the best way possible. Repeat the exercise often and you'll **cement into your mind many small problem<->solution combinations**. In this way we can build the skills necessary to be able to apply TDD in increasing frequency in our work.
 
-Just like you've probably learned to type QWERTY using poor form, learning another layout like DVORAK could give you the opportunity to type with better form. But that only works if you practice using EXCLUSIVELY good form. Do not consider this exercise if you're going to use poor form. Use your best, most powerful tools, and try to improve your execution of the kata every time you do it.
+Just like you've probably learned to type QWERTY using poor form, learning another layout like DVORAK could give you the opportunity to type with better form. But that only works if you practice using EXCLUSIVELY good form. Do not consider this exercise if you're going to use poor form. Use your best, most powerful tools(IDE shortcut combinations, etc), and try to improve your execution of the kata every time you do it.
 
 > The following excerpt pulled directly from [http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 
