@@ -12,7 +12,7 @@ I have bound **Main Menu > Run > Run** to `ctrl + T` in my setup so that tests a
 
 [The following excerpt pulled directly from http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 
-[Here](Bowling Game Kata.ppt) is a kata for the Bowling Game problem. I have broken it down into the same tiny little steps that I do when I demonstrate it. However, as is usual for a kata, I have left out most of the explanatory comments.
+[Here is a kata](https://github.com/ShawnMcCool/bowling-kata/raw/master/Bowling%20Game%20Kata.ppt) for the Bowling Game problem. I have broken it down into the same tiny little steps that I do when I demonstrate it. However, as is usual for a kata, I have left out most of the explanatory comments.
 
 A kata is meant to be memorized. Students of a kata study it as a form, not as a conclusion. It is not the conclusion of the kata that matters, it's the steps that lead to the conclusion. If you want to lean to think the way I think, to design the way I design, then you must learn to react to minutia the way I react. Following this form will help you to do that. As you learn the form, and repeat it, and repeat it, you will condition your mind and body to respond the way I respond to the minute factors that lead to design decisions.
 
