@@ -12,7 +12,7 @@ I have bound **Main Menu > Run > Run** to `ctrl + T` in my setup so that tests a
 
 The idea of the kata is that you're not thinking about how to solve the problem of the bowling game. But, rather you're memorizing the flow of building it using TDD. The problem is already solved, as you can see in the [attached document](https://github.com/ShawnMcCool/bowling-kata/raw/master/Bowling%20Game%20Kata.ppt). Each step is already defined. Simply memorize all of step one and do it until you have it mastered, then add another step. Once you can do the entire exercise out of memory, you'll be able to start reaping the benefits.
 
-What are the benefits exactly? The kata (much like kata in Tae Kwon Do) are about repetition. Utilize your best IDE shortcuts, do everything in the best way possible. Repeat the exercise often and you'll **cement into your mind many small Problem / Solution combinations**. In this way we can build the tools that we need to be able to apply TDD in increasing frequency.
+What are the benefits exactly? The kata (much like kata in Tae Kwon Do) are about repetition. Utilize your best IDE shortcuts, do everything in the best way possible. Repeat the exercise often and you'll **cement into your mind many small problem<->solution combinations**. In this way we can build the tools that we need to be able to apply TDD in increasing frequency.
 
 You probably have learned how to type QWERTY using poor form. Learning DVORAK could give you the opportunity to type with better form, but only if you practice using EXCLUSIVELY good form. Do not consider this exercise if you're going to use poor form. Use your best, most powerful tools, and try to improve your execution of the kata every time you do it.
 
