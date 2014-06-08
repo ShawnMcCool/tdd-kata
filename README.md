@@ -2,9 +2,11 @@
 
 This repository is a PHP-based starter-kit for Uncle Bob's Bowling Game TDD Kata.
 
-> `composer install` will install PHPUnit and handle autoloading the Bowling namespace.
+> `composer install` will install PHPSpec and handle autoloading.
 
-Tests can be run with `vendor/bin/phpunit` from the root folder of the project. I recommend setting up PHPStorm and running tests in the IDE for the shortest possible feedback loop.
+PHPSpec can be accessed at `bin/phpspec` from the root folder of the project.
+
+[Watch Kacper Gunia](https://www.youtube.com/watch?v=W-BuKLpUaR0) run through this exercise using PHPStorm and PHPSpec.
 
 ## Why Kata?
 
