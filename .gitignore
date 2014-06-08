@@ -2,3 +2,5 @@
 .idea
 .~lock.*
 /bin
+/spec/*
+/src/*
