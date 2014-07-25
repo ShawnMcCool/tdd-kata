@@ -1,12 +1,10 @@
-# Bowling Kata Starter
+# TDD Kata
 
-This repository is a PHP-based starter-kit for Uncle Bob's Bowling Game TDD Kata.
+This repository is a PHP-based starter-kit for multiple TDD Kata.
 
 > `composer install` will install PHPSpec and handle autoloading.
 
 PHPSpec can be accessed at `bin/phpspec` from the root folder of the project.
-
-[Watch Kacper Gunia](https://www.youtube.com/watch?v=W-BuKLpUaR0) run through this exercise using PHPStorm and PHPSpec.
 
 ## Why Kata?
 
@@ -27,6 +25,13 @@ Michael Feathers has long pondered the concept of "Design Sense". Good designers
 Perhaps the best way to acquire "Design Sense" is to find someone who has it, put your fingers on top of theirs, put your eyeballs right behind theirs, and follow along as they design something. Learning a kata may be one way of accomplishing this.
 
 If you wish to try this style of learning, I suggest you proceed by memorizing it in short sections. Fully learn one section before adding the next. I have broken the kata up into five short sections. Learn each in order, and don't learn the next until you have mastered the previous. Move slowly and deliberately. DO NOT RUSH. A kata needs to seep into your bones, and this take time.
+
+# Bowling Kata
+
+[Uncle Bob's kata document](kata/Bowling Game Kata.ppt) shows the steps of the kata.
+
+[Watch Shawn McCool](https://www.youtube.com/watch?v=1-o1VAzOQiI) run through this exercise using PHPStorm and PHPSpec.
+[Watch Kacper Gunia](https://www.youtube.com/watch?v=W-BuKLpUaR0) run through this exercise using PHPStorm and PHPSpec.
 
 Here are the sections to memorize:
 
