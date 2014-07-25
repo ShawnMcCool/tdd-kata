@@ -14,6 +14,8 @@ What are the benefits exactly? The kata (much like kata in Tae Kwon Do) are abou
 
 Just like you've probably learned to type QWERTY using poor form, learning another layout like DVORAK could give you the opportunity to type with better form. But that only works if you practice using EXCLUSIVELY good form. Do not consider this exercise if you're going to use poor form. Use your best, most powerful tools(IDE shortcut combinations, etc), and try to improve your execution of the kata every time you do it.
 
+# Bowling Kata
+
 > The following excerpt pulled directly from [http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 
 [Here is a kata](https://github.com/ShawnMcCool/bowling-kata/raw/master/Bowling%20Game%20Kata.ppt) for the Bowling Game problem. I have broken it down into the same tiny little steps that I do when I demonstrate it. However, as is usual for a kata, I have left out most of the explanatory comments.
@@ -25,8 +27,6 @@ Michael Feathers has long pondered the concept of "Design Sense". Good designers
 Perhaps the best way to acquire "Design Sense" is to find someone who has it, put your fingers on top of theirs, put your eyeballs right behind theirs, and follow along as they design something. Learning a kata may be one way of accomplishing this.
 
 If you wish to try this style of learning, I suggest you proceed by memorizing it in short sections. Fully learn one section before adding the next. I have broken the kata up into five short sections. Learn each in order, and don't learn the next until you have mastered the previous. Move slowly and deliberately. DO NOT RUSH. A kata needs to seep into your bones, and this take time.
-
-# Bowling Kata
 
 [Uncle Bob's kata document](kata/Bowling Game Kata.ppt) shows the steps of the kata.
 
