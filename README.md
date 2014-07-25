@@ -31,6 +31,7 @@ If you wish to try this style of learning, I suggest you proceed by memorizing i
 [Uncle Bob's kata document](kata/Bowling Game Kata.ppt) shows the steps of the kata.
 
 [Watch Shawn McCool](https://www.youtube.com/watch?v=1-o1VAzOQiI) run through this exercise using PHPStorm and PHPSpec.
+
 [Watch Kacper Gunia](https://www.youtube.com/watch?v=W-BuKLpUaR0) run through this exercise using PHPStorm and PHPSpec.
 
 Here are the sections to memorize:
